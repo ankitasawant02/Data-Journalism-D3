@@ -1,6 +1,6 @@
 # Data-Journalism-D3
 
-
+![giphy](https://user-images.githubusercontent.com/49076702/62640628-dcf4b100-b8f6-11e9-9524-5c5e385ffc1a.gif)
 
 # Background
 
