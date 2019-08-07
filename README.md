@@ -14,3 +14,16 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ![image](https://user-images.githubusercontent.com/49076702/62640793-35c44980-b8f7-11e9-9e6d-3d01a0c0eff2.png)
 
+You need to create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
+
+Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the app.js file of your homework directory—make sure you pull in the data from data.csv by using the d3.csv function. Your scatter plot should ultimately appear like the image at the top of this section.
+
+
+Include state abbreviations in the circles.
+Create and situate your axes and labels to the left and bottom of the chart.
+Note: You'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser.
+
+# Level 2: Impress the Boss (Optional Challenge Assignment)
+
+Why make a static graphic when D3 lets you interact with your data?
+
