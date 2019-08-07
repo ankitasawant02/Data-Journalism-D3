@@ -1,6 +1,6 @@
 # Data-Journalism-D3
 
-<img width="505" alt="Screen Shot 2019-08-07 at 9 31 58 AM" src="https://user-images.githubusercontent.com/49076702/62640356-458f5e00-b8f6-11e9-944c-ecac8b9e5f8e.png">
+https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif
 
 # Background
 
