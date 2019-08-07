@@ -1,6 +1,6 @@
 # Data-Journalism-D3
 
-https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif
+
 
 # Background
 
