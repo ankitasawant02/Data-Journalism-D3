@@ -12,3 +12,5 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 # Level 1: D3 Dabbler
 
+![image](https://user-images.githubusercontent.com/49076702/62640793-35c44980-b8f7-11e9-9e6d-3d01a0c0eff2.png)
+
